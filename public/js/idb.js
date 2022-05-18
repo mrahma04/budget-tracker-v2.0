@@ -50,10 +50,14 @@ function uploadTransaction() {
     const getAll = transactionObjectstore.getAll()
 
     // call 'onsuccess' method on getAll
+    // getAll is an asynchronous function that we have to attached an event handler to
     getAll.onsuccess = function () {
         if (getAll.result.length > 0) {
+            // it sends the data to /api/transaction POST method
+            // which calls the Transaction.insertMany(body) function
             fetch('/api/transaction', {
                 method: 'POST',
+                // getAll.onsuccess will return a result property that's an array
                 body: JSON.stringify(getAll.result),
                 headers: {
                     Accept: 'application/json, text/plain, */*',
