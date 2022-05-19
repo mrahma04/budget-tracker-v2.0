@@ -5,6 +5,8 @@
 ## To use this Application
 
 - Navigate to Link below
+- Input transactions
+- Test offline functionality by toggling Network in Chrome DevTools to Offline
 
 [App URL](https://shielded-sierra-30574.herokuapp.com/)
 
@@ -25,3 +27,20 @@ THEN the deposits or expenses added while they were offline are added to their t
 ```
 
 ### Screenshots
+
+### Landing Page
+
+![](2022-05-19-06-06-10.png)
+
+### Online Transaction
+
+![](2022-05-19-06-07-46.png)
+
+### Offline Transaction
+
+![](2022-05-19-06-09-10.png)
+
+### Offline transasctions sycned to MongoDB Atlas after App comes back online
+
+![](2022-05-19-06-10-05.png)
+
