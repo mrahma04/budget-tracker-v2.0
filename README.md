@@ -44,3 +44,6 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 ![](./other/2022-05-19-06-10-05.png)
 
+### Mobile (PWA) App
+
+![](2022-05-19-06-40-08.png)
