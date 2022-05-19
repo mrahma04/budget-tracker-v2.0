@@ -30,17 +30,17 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 ### Landing Page
 
-![](2022-05-19-06-06-10.png)
+![](./other/2022-05-19-06-06-10.png)
 
 ### Online Transaction
 
-![](2022-05-19-06-07-46.png)
+![](./other/2022-05-19-06-07-46.png)
 
 ### Offline Transaction
 
-![](2022-05-19-06-09-10.png)
+![](./other/2022-05-19-06-09-10.png)
 
 ### Offline transasctions sycned to MongoDB Atlas after App comes back online
 
-![](2022-05-19-06-10-05.png)
+![](./other/2022-05-19-06-10-05.png)
 
