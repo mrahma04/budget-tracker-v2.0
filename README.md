@@ -40,10 +40,14 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 ![](./other/2022-05-19-06-09-10.png)
 
+### Serivce Workers for Offline Cache
+
+![](./other/2022-05-19-06-56-50.png)
+
 ### Offline transasctions sycned to MongoDB Atlas after App comes back online
 
 ![](./other/2022-05-19-06-10-05.png)
 
-### Mobile (PWA) App
+### Mobile (PWA) App w/manifest.json
 
 ![](./other/2022-05-19-06-49-32.png)
