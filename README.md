@@ -6,7 +6,7 @@
 
 - Navigate to Link below
 
-[App URL](https://mrahma04.github.io/react-portfolio-v2.0/)
+[App URL](https://serene-beach-05943.herokuapp.com/)
 
 ### User Story
 ```
