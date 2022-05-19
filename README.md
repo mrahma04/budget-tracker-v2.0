@@ -1,12 +1,12 @@
 # Budget Tracker v2.0 :turtle::moneybag:
 
-#### This is my Portfolio site build entirely using React. It is a Single Page Application (SPA) with 4 sections including an About Me, Portfolio, Contact and Resume. From the Resume page, you can download a PDF of my resume or use the Contact section to send me a message. The site is also build using responsive web design principles and the layout dynamically changes based on screen size.
+#### This is a budget tracker application that allows both online and offline access/functionality. Users can add expenses and deposits to their budget with or without an Internet connection. When the user enters transactions offline, the total is updated when they come back online.
 
 ## To use this Application
 
 - Navigate to Link below
 
-[App URL](https://serene-beach-05943.herokuapp.com/)
+[App URL](https://shielded-sierra-30574.herokuapp.com/)
 
 ### User Story
 ```
